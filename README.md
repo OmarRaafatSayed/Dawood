@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Raafat</h1>
+<h1 align="center">Hi 👋, I'm Omar Dawood</h1>
 <h3 align="center">🚀 Full-Stack Developer | Mobile Apps • Websites • Data Analysis • Machine Learning</h3>
 
 ---
